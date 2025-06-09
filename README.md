@@ -31,13 +31,11 @@ Analyze patterns, trends, and relationships affecting passenger survival using v
 
 - `Titanic_EDA.ipynb` – Analysis notebook  
 - `Titanic_EDA_Report.pdf` – PDF report  
-- `train.xlsx` – Dataset used  
-
 ---
 
 ## ✅ Submission
 
 - Internship: Data Analyst @ Oasis Infobyte  
 - Task: Level 1 – Task 5  
-- Submitted by: **V. Shravya**
+
 
