@@ -29,8 +29,8 @@ Analyze patterns, trends, and relationships affecting passenger survival using v
 
 ## 📁 Files Included
 
-- `Titanic_EDA.ipynb` – Analysis notebook  
-- `Titanic_EDA_Report.pdf` – PDF report  
+- `Titanic_EDA(1).ipynb` – Analysis notebook  
+- `Titanic_eda.pdf` – PDF report  
 ---
 
 ## ✅ Submission
